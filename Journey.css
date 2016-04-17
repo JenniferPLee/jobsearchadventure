@@ -1,0 +1,45 @@
+/* Font for the entire site. */
+h1 {text-align: center; font-family: "Montserrat" sans-serif; font-size: 40px; color: purple;}
+
+body {background-color: #DEB7EB}
+
+/* Image */
+img {border: 1px solid purple;}
+IMG {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+div {border: 2px solid purple;
+padding:10px 5px 10px 10px;
+margin: 10px 5px 10px 10px;
+font-size: 25px;}
+
+p4 {color:purple; font-size: 20px; text-align: left;}
+
+/* Navigation Bar*/
+nav {padding: 10px;}
+ul {padding: 10px;}
+li{margin-left: 100px;
+    margin-right: 15px;}
+a{color: purple; font-size:20px;}
+a:hover {color: red;}
+
+nav ul { border: 2px solid purple; background-color: light 
+purple; }
+
+/* nav li { border: 2px; } */
+/* Content */
+
+p.welcome {padding: 1px;
+    word-wrap: break-word;
+    color: purple; font-size:20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p.greatexperience {padding:1px;
+    word-wrap: break-word;
+    color: purple; font-size:20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p5 {color:purple; font-size: 20px; text-align: left;}
